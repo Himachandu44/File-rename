@@ -1,5 +1,5 @@
 # Rename-Bot
-This is a very simple Telegram Files Rename Bot by [@Himachandu44](https://t.me/himachandu1011).
+This is a very simple Telegram Files Rename Bot by [@himachandu1011](https://t.me/himachandu1011).
 
 ## Features
 - Rename Videos, Documents or Audios without downloading the file.
@@ -33,4 +33,9 @@ Easy to Deploy to Heroku.
 
 ### Video Tutorial:
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/edcOa_cZWg4)
+
+
+Press Below Button to Deploy!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Himachandu44/Rename-Bot)
 
